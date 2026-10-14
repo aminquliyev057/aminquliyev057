@@ -17,7 +17,7 @@ Just a tech guy
 
 ## Platforms
 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-AminQuliyev-9FEF00?style=flat&logo=hackthebox&logoColor=black)]([https://app.hackthebox.com/](https://app.hackthebox.com/users/2365632))
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-AminQuliyev-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2365632)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-AminQuliyev-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AminQuliyev)
 
 ---
