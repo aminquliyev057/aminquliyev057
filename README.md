@@ -1,9 +1,5 @@
 # Amin Guliyev
 
-<p align="center">
-  <img src="./batman.gif" width="400px" alt="My GIF">
-</p>
-
 **Penetration Tester | Offensive Security**
 
 Just a tech guy
@@ -32,3 +28,7 @@ Just a tech guy
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quliyevamin057@gmail.com)
 
 ---
+
+<p align="center">
+  <img src="./batman.gif" width="400px" alt="My GIF">
+</p>
