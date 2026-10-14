@@ -24,7 +24,7 @@ Just a tech guy
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/amin-quliyev-867aba341/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/amin-quliyev-867aba341/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:quliyevamin057@gmail.com)
 
 ---
