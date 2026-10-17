@@ -1,24 +1,45 @@
+<div align="center">
+
 # Amin Guliyev
 
-**Penetration Tester | Offensive Security**
+### Penetration Tester | Offensive Security
 
 Just a tech guy
 
----
-
-## Certifications
-
-| Certification | Issuer | Year | Credential |
-|---|---|---|---|
-| CPTS – Certified Penetration Testing Specialist | Hack The Box | 2026 | [Verify](https://profile.hackthebox.com/profile/019c713c-fee4-70e5-9652-a211d0747ff8/certificate/HTBCERT-3EADC198B3) |
-| eJPT – Junior Penetration Tester | INE | 2025 | [Verify](https://certs.ine.com/006b0b20-b166-41a5-886b-097ff0a7ace1#acc.7j1vnBUX) |
+</div>
 
 ---
 
-## Platforms
+<div align="center">
 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-AminQuliyev-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2365632)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-AminQuliyev-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AminQuliyev)
+### Certifications
+
+<table >
+  <thead>
+    <tr>
+      <th align="center">Certification</th>
+      <th align="center">Issuer</th>
+      <th align="center">Year</th>
+      <th align="center">Credential</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">CPTS – Certified Penetration Testing Specialist</td>
+      <td align="center">Hack The Box</td>
+      <td align="center">2026</td>
+      <td align="center"><a href="https://profile.hackthebox.com/profile/019c713c-fee4-70e5-9652-a211d0747ff8/certificate/HTBCERT-3EADC198B3">Verify</a></td>
+    </tr>
+    <tr>
+      <td align="center">eJPT – Junior Penetration Tester</td>
+      <td align="center">INE</td>
+      <td align="center">2025</td>
+      <td align="center"><a href="https://certs.ine.com/006b0b20-b166-41a5-886b-097ff0a7ace1#acc.7j1vnBUX">Verify</a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -34,3 +55,10 @@ Just a tech guy
     </td>
   </tr>
 </table>
+
+<div align="center">
+
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-AminQuliyev-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/2365632)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-AminQuliyev-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AminQuliyev)
+
+</div>
